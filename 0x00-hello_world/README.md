@@ -1,0 +1,1 @@
+**This is a 0x00 Hello World directory**
