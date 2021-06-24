@@ -1,1 +1,1 @@
-**0x04 More function nested loops**
+**0x04 More functions nested loops**
